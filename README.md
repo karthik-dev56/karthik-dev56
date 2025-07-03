@@ -3,10 +3,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I have worked on major product [Aestro-ai](https://aestro-ai.vercel.app/signin)
+- and developed a working full stack application of [cricket-web](https://wicket-time-slots.vercel.app/)
 
 - 🌱 I’m currently learning **nextjs and n8n for automation**
 
-- 🔭 second major product on [Resume-optimizer](https://resume-optimisizer-ai.vercel.app/)
+- 🔭 and i am developer in a registered startup company : mentorle.in established in 2021
 
 - 🤝 I’m currently doing freelancing **smart-boarding-system,Ai-ingredients search**
 
