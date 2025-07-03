@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs and n8n for automation**
 
-- 🔭 and i am developer in a registered startup company : mentorle.in established in 2021
+- 🔭 and i am developer in a registered startup company : [mentorle.in](https://www.mentorle.in/) established in 2021
 
 - 🤝 I’m currently doing freelancing **smart-boarding-system,Ai-ingredients search**
 
