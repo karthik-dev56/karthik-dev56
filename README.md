@@ -9,7 +9,7 @@
 
 - 🔭 and i am developer in a registered startup company : [mentorle.in](https://www.mentorle.in/) established in 2021
 
-- 🤝 I’m currently doing freelancing **smart-boarding-system,Ai-ingredients search**
+- 🤝 Done freelancing on **smart-boarding-system,Ai-ingredients search** for clients 
 
 - 👨‍💻 All of my projects are available at [https://karthik-portfolio-f79f8.web.app/](https://karthik-portfolio-f79f8.web.app/)
 
