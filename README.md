@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Featured Project  
-#### 🎙️ [Voice AI Mock Interview](https://real-ai-mock-intervieww.vercel.app/)  
+#### 🎙️ [Voice-Driven Mock Interview AI](https://real-ai-mock-intervieww.vercel.app/)  
 Developed a full-stack **voice-driven AI interview platform** that conducts real-time mock interviews for recruiters and candidates.  
 - 💡 Utilized **NLP**, **speech recognition (Vapi)**, and **adaptive scoring** to analyze responses.  
 - 📊 Provides detailed feedback on strengths and weaknesses, and generates a **score out of 20**.  
