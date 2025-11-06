@@ -1,42 +1,57 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>  
 <h3 align="center">A passionate Full Stack Developer from India</h3>  
 
-- 🔭 [Voice-ai-mockinterview](https://real-ai-mock-intervieww.vercel.app/)  
-- 💬 Developed a full-stack voice-driven AI interview platform that conducts real-time mock interviews for recruiters and candidates. Utilized NLP, speech recognition with Vapi, and adaptive scoring to analyze responses, provide detailed feedback on strengths and weaknesses, and generate a score out of 20. Designed to automate recruiter screening by 50%.  
-- 🤝 Done freelancing on **Smart Boarding System** and **AI Ingredients Search** for clients  
-- 📫 How to reach me **prokarthik1889@gmail.com**  
-- ⚡ Fun fact: **I think I am lazy 😄**  
+---
 
-<h3 align="left">Connect with me:</h3>  
+### 🚀 Featured Project  
+#### 🎙️ [Voice AI Mock Interview](https://real-ai-mock-intervieww.vercel.app/)  
+Developed a full-stack **voice-driven AI interview platform** that conducts real-time mock interviews for recruiters and candidates.  
+- 💡 Utilized **NLP**, **speech recognition (Vapi)**, and **adaptive scoring** to analyze responses.  
+- 📊 Provides detailed feedback on strengths and weaknesses, and generates a **score out of 20**.  
+- ⚙️ Designed to **automate recruiter screening by 50%**.  
+
+---
+
+### 💼 Freelance Projects  
+- **Smart Boarding System** — automated boarding pass verification using smart scanning.  
+- **AI Ingredients Search** — AI-powered ingredient recognition and recipe recommendations.  
+
+---
+
+### 📫 Contact Me  
+- **Email:** prokarthik1889@gmail.com  
+- ⚡ **Fun fact:** I think I am lazy 😄  
+
+---
+
+### 🌐 Connect with Me  
 <p align="left">  
-<a href="https://www.linkedin.com/in/karthik-kumar-16ba78339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/karthikkkk__21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/karthik-kumar-16ba78339/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>  
+<a href="https://www.instagram.com/karthikkkk__21/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>  
 </p>  
 
-<h3 align="left">Skills:</h3>  
-<ul>
-  <li><b>Languages:</b> Python, JavaScript, TypeScript, MySQL, PostgreSQL, Cybersecurity</li>
-  <li><b>Technologies & Tools:</b> Next.js, Node.js, n8n, MySQL, HTML, CSS, Convex, Supabase, Firebase, Clerk, Arcjet, Vapi, Vercel, Streamlit, React.js, Data Structures & Algorithms</li>
-</ul>
+---
 
-<h3 align="left">Languages and Tools:</h3>  
+### 🧠 Skills  
+**Languages:** Python, JavaScript, TypeScript, MySQL, PostgreSQL, Cybersecurity  
+**Technologies & Tools:** Next.js, Node.js, n8n, MySQL, HTML, CSS, Convex, Supabase, Firebase, Clerk, Arcjet, Vapi, Vercel, Streamlit, React.js, Data Structures & Algorithms  
+
+---
+
+### 🛠️ Languages & Tools  
 <p align="left">  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>  
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>  
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>  
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>  
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>  
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>  
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>  
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>  
 </p>
