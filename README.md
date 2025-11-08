@@ -1,61 +1,102 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik;Full+Stack+Developer;AI+%26+Voice+Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Karthik%20Kumar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
-<h4 align="center">Building intelligent solutions that bridge AI, voice technology, and web applications</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Voice+Technology+Expert+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%92%A1;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthik-dev56&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/karthik-dev56?label=Followers&style=social" alt="followers" />
+  <a href="https://www.linkedin.com/in/karthik-kumar-16ba78339/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:prokarthik1889@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=karthik-dev56&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/karthik-dev56?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
+
+<div align="center">
+  
+### 💫 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<div align="left">
+
+🎯 **Full Stack Developer** specializing in **AI Integration** & **Voice Technology**
+
+� **Featured Work:**
+- 🎙️ Voice-Driven Mock Interview AI Platform (Live & Active)
+- 🎫 Smart Boarding System
+- 🥘 AI Ingredients Search
+
+💡 **Expertise:**
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: Node.js, Convex, Firebase, Supabase
+- AI/ML: OpenAI GPT-4o, Vapi, n8n Automation
+- Databases: MySQL, PostgreSQL
+
+🌱 **Learning:** Advanced NLP • Real-time Voice Systems • Cloud Architecture
+
+🎯 **Mission:** Building intelligent solutions that automate processes and create impact
+
+💬 **Ask me about:** Next.js • React • AI Integration • Voice APIs • Full Stack Development
+
+📧 **Reach me:** prokarthik1889@gmail.com
+
+⚡ **Fun fact:** I turn caffeine into code ☕ → 💻
+
+</div>
+
+<br clear="both"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik-dev56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-dev56&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-dev56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-dev56&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" width="56%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik-dev56&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 🎯 About Me
+## 🌟 Featured Project
 
-```typescript
-const karthik = {
-  name: "Karthik Kumar",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  
-  expertise: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Convex", "Firebase", "Supabase"],
-    ai: ["OpenAI GPT-4o", "Vapi", "n8n Automation", "NLP"],
-    databases: ["MySQL", "PostgreSQL"]
-  },
-  
-  currentProjects: [
-    "🎙️ Voice-Driven Mock Interview AI Platform",
-    "🤖 AI-Powered Recruitment Solutions"
-  ],
-  
-  learning: ["Advanced NLP", "Real-time Voice Systems", "Cloud Architecture"],
-  
-  interests: ["AI Integration", "Voice Technology", "Full Stack Development"],
-  
-  achievements: {
-    automation: "50% recruiter screening time reduced",
-    projects: "Multiple successful freelance deployments",
-    impact: "Helping businesses scale with AI"
-  },
-  
-  funFact: "I turn caffeine into code ☕ → 💻",
-  
-  motto: "Building intelligent solutions that make a difference! 🚀"
-};
-```
+<div align="center">
 
-- 🔭 Currently building **AI-powered interview platforms**
-- 🌱 Exploring **real-time voice processing** and **adaptive AI systems**
-- 💼 Available for **freelance projects** and **collaborations**
-- 💬 Ask me about **Next.js, React, Node.js, AI integration, Voice APIs**
-- ⚡ Fun fact: **I think I am lazy 😄** (but my code isn't!)
+### 🎙️ [Voice-Driven Mock Interview AI](https://real-ai-mock-intervieww.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-blue?style=for-the-badge&logo=vercel)](https://real-ai-mock-intervieww.vercel.app/)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-Repository-black?style=for-the-badge&logo=github)](https://github.com/karthik-dev56/Real-AI-Mock-Intervieww)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
+
+**An intelligent voice-driven AI platform conducting real-time mock interviews through natural conversations, powered by advanced AI for professional-grade candidate evaluation.**
+
+### ✨ Key Highlights
+
+| Feature | Description |
+|---------|-------------|
+| 🎤 **Voice Interviews** | Real-time conversations using Vapi (Deepgram Nova-2 + PlayHT) with adaptive questioning |
+| 🧠 **AI Intelligence** | OpenAI GPT-4o powers context-aware follow-ups • n8n workflow automation |
+| 📊 **Smart Analytics** | 20-point scoring system • Detailed feedback • PDF reports |
+| 🔒 **Security** | Clerk auth • Arcjet rate limiting (3 free/24h) • Protected routes |
+| 📈 **Impact** | **50% automation** in recruiter screening • Reduced costs • Bias-free evaluation |
+
+**Tech Stack:** Next.js 15 • React 19 • TypeScript • Convex • OpenAI GPT-4o • Vapi • n8n • Tailwind CSS
 
 ---
-
 
 ## 💼 Freelance Projects
 
@@ -129,31 +170,6 @@ AI-powered **ingredient recognition** and recipe recommendations
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-dev56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-dev56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-dev56&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-dev56&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik-dev56&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -179,7 +195,7 @@ AI-powered **ingredient recognition** and recipe recommendations
 
 📧 **Email:** prokarthik1889@gmail.com
 
-💼 **Open for:** Freelance Projects | Full-time Opportunities | Collaborations
+💼 **Open for:** Internships | Full-time Opportunities | Collaborations
 
 🌟 **Interested in:** AI/ML Projects | Voice Technology | Full Stack Development
 
@@ -192,10 +208,7 @@ AI-powered **ingredient recognition** and recipe recommendations
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/karthik-dev56/karthik-dev56/output/github-contribution-grid-snake-dark.svg)
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
