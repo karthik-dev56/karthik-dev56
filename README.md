@@ -42,7 +42,7 @@
 
 💬 **Ask me about:** Next.js • React • AI Integration • Voice APIs • Full Stack Development
 
-📧 **Reach me:** prokarthik1889@gmail.com
+📧 **Reach me:** prokarthik1449@gmail.com
 
 ⚡ **Fun fact:** I turn caffeine into code ☕ → 💻
 
